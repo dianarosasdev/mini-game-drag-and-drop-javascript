@@ -14,4 +14,4 @@ Por ahora, es un proyecto muy básico en cuanto a la estructura de HTML.
 - Creación de los nodos de forma dinámica.
 - Reacomodo del tablero de forma aleatoria.
 - Incluir animaciones y transiciones.
-- Depurar el score
+- Refactorizar score
