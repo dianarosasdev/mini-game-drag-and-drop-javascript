@@ -29,6 +29,12 @@ body {
 
 .article-image {
     width: 100px;
+    text-align: center;
+    transition: transform 500ms;
+}
+
+.article-image:hover {
+    transform: translateY(-0.75rem);
 }
 
 .article-image img {
